@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38735550133",
+    "project_id": "sharemyrent-smr",
+    "storage_bucket": "sharemyrent-smr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38735550133:android:b53d5250f80196559a50fc",
+        "android_client_info": {
+          "package_name": "com.example.sharemyrent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTfVGi856ptFObDqzIWYLn_-i42Qz6tH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
